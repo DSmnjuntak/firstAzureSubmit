@@ -29,7 +29,7 @@
     $host = "elcomp.database.windows.net";
     $user = "daniel.smnjuntak";
     $pass = "ElderWInte96";
-    $db = "elcomp";
+    $db = "el.db";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
