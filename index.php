@@ -28,7 +28,7 @@
  <?php
     $host = "elcomp.database.windows.net";
     $user = "daniel.smnjuntak";
-    $pass = "ElderWInte96";
+    $pass = "ElderWinte96";
     $db = "el.db";
 
     try {
